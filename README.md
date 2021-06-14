@@ -29,7 +29,7 @@ https://spotmicroai.readthedocs.io/en/latest/
 - [ ] Upload code, bill of materials and assembly instructions
 
 ## Current Progress
-I did not fully document the assembly and manufacturing process and will come back to this later sorry! For 3D printing I printed using PLA plastic on my Ender 3 v2. I will detail all the settings later as different settings were used for different parts but generally I printed using 0.16mm layer height with a wall line count of 4 and an infill density between 20 - 50%. I also used the alternate wall setting in Cura for added strength.
+I did not fully document the assembly and manufacturing process and will come back to this later. For 3D printing I printed using PLA plastic on my Ender 3 v2. I will detail all the settings later as different settings were used for different parts but generally I printed using 0.16mm layer height with a wall line count of 4 and an infill density between 20 - 50%. I also used the alternate wall setting in Cura for added strength.
 
 ### Assembly of Eve
 ![A1](https://user-images.githubusercontent.com/53890241/120613535-ac9ddf80-c499-11eb-9ddf-0ac0ceb77be2.png)
