@@ -1,4 +1,4 @@
-# Quadruped Eve
+# Quadruped Ava
 ![QEFRONT](https://user-images.githubusercontent.com/53890241/120611873-f4236c00-c497-11eb-89dc-f8c86aae2deb.png)
 ![QEBCK](https://user-images.githubusercontent.com/53890241/120611885-f71e5c80-c497-11eb-8ec9-91af1f57dc68.png)
 
@@ -31,10 +31,11 @@ https://spotmicroai.readthedocs.io/en/latest/
 ## Current Progress
 I did not fully document the assembly and manufacturing process and will come back to this later. For 3D printing I printed using PLA plastic on my Ender 3 v2. I will detail all the settings later as different settings were used for different parts but generally I printed using 0.16mm layer height with a wall line count of 4 and an infill density between 20 - 50%. I also used the alternate wall setting in Cura for added strength.
 
-### Assembly of Eve
+### Assembly of Ava
 ![A1](https://user-images.githubusercontent.com/53890241/120613535-ac9ddf80-c499-11eb-9ddf-0ac0ceb77be2.png)
 ![A2](https://user-images.githubusercontent.com/53890241/120614284-68f7a580-c49a-11eb-85c5-6f84f531884d.png)
 
 ### Inverse Kinematics and Teleoperating from Bluetooth Controller
 
-https://photos.app.goo.gl/DhuuCmUEwGPbDo13A
+https://photos.app.goo.gl/DhuuCmUEwGPbDo13A\
+
