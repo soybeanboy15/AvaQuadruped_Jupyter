@@ -5,14 +5,14 @@
 
 
 ## Overview
-This repository will contain the code, bill of materials for my quadruped robot using a Nvidia Jetson Nano I developed as well as stl files to 3D print the design. There is still much to work on and I will update this repository as I progress on this project :).
+This repository will contain the code, bill of materials for my quadruped robot using a Nvidia Jetson Nano I developed as well as stl files to 3D print the design. There is still much to work on and I will update this repository as I progress on this project.
 
 ## Existing Designs and Code Used
 I would like to thank Miguel Ayuso Parrilla as I used his quadruped leg design and learnt alot from his project at:
 
 https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot
 
-I also learnt much and based my design from the work done by the SpotMicroAi community here:
+I also learned many things from the work done by the SpotMicroAi community here:
 
 https://spotmicroai.readthedocs.io/en/latest/
 
@@ -21,7 +21,7 @@ https://spotmicroai.readthedocs.io/en/latest/
 - [ ] Upload STL files for 3D printing
 - [x] Complete inverse kinematics of model
 - [x] Teleoperate using bluetooth controller
-- [ ] Get EVE to walk
+- [x] Get EVE to walk
 - [ ] Implement different gaits (walk, creep, run)
 - [ ] Dynamic walking using reinforcement learning and closed loop control
 - [ ] Implement computer vision and machine learning
