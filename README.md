@@ -2,7 +2,8 @@
 ![QEFRONT](https://user-images.githubusercontent.com/53890241/120611873-f4236c00-c497-11eb-89dc-f8c86aae2deb.png)
 ![QEBCK](https://user-images.githubusercontent.com/53890241/120611885-f71e5c80-c497-11eb-8ec9-91af1f57dc68.png)
 
-
+# Gait and Inverse Kinematics Demo
+https://youtu.be/TFmdunKv4EU
 
 ## Overview
 This repository will contain the code, bill of materials for my quadruped robot using a Nvidia Jetson Nano I developed as well as stl files to 3D print the design. There is still much to work on and I will update this repository as I progress on this project.
@@ -35,7 +36,4 @@ I did not fully document the assembly and manufacturing process and will come ba
 ![A1](https://user-images.githubusercontent.com/53890241/120613535-ac9ddf80-c499-11eb-9ddf-0ac0ceb77be2.png)
 ![A2](https://user-images.githubusercontent.com/53890241/120614284-68f7a580-c49a-11eb-85c5-6f84f531884d.png)
 
-### Inverse Kinematics and Teleoperating from Bluetooth Controller
-
-https://photos.app.goo.gl/DhuuCmUEwGPbDo13A\
 
