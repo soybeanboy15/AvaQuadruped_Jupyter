@@ -2,7 +2,7 @@
 ![QEFRONT](https://user-images.githubusercontent.com/53890241/120611873-f4236c00-c497-11eb-89dc-f8c86aae2deb.png)
 ![QEBCK](https://user-images.githubusercontent.com/53890241/120611885-f71e5c80-c497-11eb-8ec9-91af1f57dc68.png)
 
-# Gait and Inverse Kinematics Demo
+# Walking Demo
 https://youtu.be/TFmdunKv4EU
 
 ## Overview
@@ -23,10 +23,12 @@ https://spotmicroai.readthedocs.io/en/latest/
 - [x] Complete inverse kinematics of model
 - [x] Teleoperate using bluetooth controller
 - [x] Get EVE to walk
-- [ ] Implement different gaits (walk, creep, run)
+- [x] Implement different gaits (walk, creep, run)
 - [ ] Dynamic walking using reinforcement learning and closed loop control
 - [ ] Implement computer vision and machine learning
-- [ ] Implement behaviours through motion routines and neopixel LED
+- [x] Implement behaviours through motion routines and neopixel LED
+- [ ] Implement jupyter notebooks into ros
+- [ ] Implement SLAM using lidar
 - [ ] Upload code, bill of materials and assembly instructions
 
 ## Current Progress
